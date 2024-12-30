@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://maolonglong.github.io/hugo-simple-starter"
+baseURL = "https://bloghallos.pages.dev/"
 theme = "hugo-simple"
 languageCode = "en"                # zh-Hans
 title = "Hugo Simple"
